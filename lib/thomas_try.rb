@@ -1,5 +1,6 @@
-require "thomas_try/version"
+require 'thomas_try/version'
+require 'pp'
 
 module ThomasTry
-  # Your code goes here...
+  pp ENV
 end
